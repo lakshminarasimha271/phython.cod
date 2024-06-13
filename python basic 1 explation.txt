@@ -1,0 +1,9 @@
+Step 1: Run the Program
+python task_manager.py
+Explanation
+display_menu(): Prints the menu options.
+add_task(tasks): Adds a new task to the list.
+complete_task(tasks): Marks a task as completed based on user input.
+remove_task(tasks): Removes a task from the list based on user input.
+view_tasks(tasks): Displays all tasks with their status.
+main(): Main function to run the task manager, handle user input, and call the appropriate functions.
